@@ -251,7 +251,7 @@
             var href = window.location.href;
             var indexOfEn = href.toLowerCase().indexOf('/en/');
             if(indexOfEn !== -1) {
-                switchLang.href = href.replace('/en/', '/');
+                switchLang.href = href.replace('/');
             }
             else {
                 switchLang.href = href.replace(/(^http[s]?:\/\/[a-z0-9.]*[:?0-9]*\/)(.*)/i, '$1en/$2');
