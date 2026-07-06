@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.leichuanjie.cn/2026/07/06/hello-world/</loc>
+    <loc>https://www.leichuanjie.cn/2024/09/13/This-is-first-page-of-Life-categories/</loc>
     
     <lastmod>2026-07-06</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.leichuanjie.cn/2024/09/13/This-is-first-page-of-Life-categories/</loc>
+    <loc>https://www.leichuanjie.cn/2026/07/06/hello-world/</loc>
     
     <lastmod>2026-07-06</lastmod>
     
@@ -128,13 +128,6 @@
 
   
   <url>
-    <loc>https://www.leichuanjie.cn/tags/Hexo/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.leichuanjie.cn/tags/C/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -143,6 +136,13 @@
   
   <url>
     <loc>https://www.leichuanjie.cn/tags/Learn/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.leichuanjie.cn/tags/Hexo/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -179,13 +179,6 @@
 
   
   <url>
-    <loc>https://www.leichuanjie.cn/categories/Hexo/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.leichuanjie.cn/categories/Learn/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,7 +186,7 @@
   </url>
   
   <url>
-    <loc>https://www.leichuanjie.cn/categories/Learn/C/</loc>
+    <loc>https://www.leichuanjie.cn/categories/Hexo/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -201,6 +194,13 @@
   
   <url>
     <loc>https://www.leichuanjie.cn/categories/Life/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.leichuanjie.cn/categories/Learn/C/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
