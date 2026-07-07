@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.leichuanjie.cn/photography/index.html</loc>
-    
-    <lastmod>2026-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.leichuanjie.cn/2024/09/11/this-is-a-test/</loc>
-    
-    <lastmod>2026-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.leichuanjie.cn/about/index.html</loc>
     
     <lastmod>2026-07-07</lastmod>
@@ -30,6 +12,24 @@
   
   <url>
     <loc>https://www.leichuanjie.cn/2026/07/06/hello-world/</loc>
+    
+    <lastmod>2026-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.leichuanjie.cn/photography/index.html</loc>
+    
+    <lastmod>2026-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.leichuanjie.cn/2024/09/11/this-is-a-test/</loc>
     
     <lastmod>2026-07-07</lastmod>
     
